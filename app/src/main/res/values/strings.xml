@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">LoginApp3</string>
+    <string name="username" translatable="false">UserName</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="skype" translatable="false">SKYPE</string>
+    <string name="paassword" translatable="false">Password</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register Here</string>
+
+</resources>
